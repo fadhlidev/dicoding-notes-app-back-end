@@ -19,5 +19,8 @@
   "devDependencies": {
     "eslint": "^8.34.0",
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0"
   }
 }
